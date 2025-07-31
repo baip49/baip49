@@ -3,18 +3,20 @@
 #### My name is César Sánchez and I'm here to make my own things!
 
 🌐 My web page is currently live on: https://usecodebaip.com
-(gonna update that page in a few months...)
+(gonna update that page...)
 
-- 💬 I'm currently working on create my brand
+- 💬 Currently working on create my own brand
+
 ## 📚 Currently learning:
-- 📌 English (I must communicate with other people)
+- 📌 English
 - 📌 Laravel (for web development)
-  - 🤔 I'm looking for help with Laravel projects, I'm a newbie with that thing (want to web development by my own)
+- 📌 Angular CLI
 - 📌 HTML
 - 📌 CSS
 - 📌 Bootstrap
 - 📌 Tailwind
-- 📌 JS (a bit)
+- 📌 JavaScript
+- 📌 TypeScript
 
 ## 📫 How to reach me | _English/Spanish only_
   - 📧 Email: contacto@usecodebaip.com
