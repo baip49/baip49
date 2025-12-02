@@ -9,7 +9,8 @@
 
 ## 📚 Currently learning:
 - 📌 English
-- 📌 Laravel (for web development)
+- 📌 Astro
+- 📌 Laravel
 - 📌 Angular CLI
 - 📌 HTML
 - 📌 CSS
