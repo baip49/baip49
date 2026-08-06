@@ -2,8 +2,8 @@
 
 #### My name is César Sánchez and I'm here to make my own things!
 
-🌐 My web page is currently live on: https://usecodebaip.com
-(gonna update that page...)
+🌐 My web page is currently live on: https://baip.dev
+(updated recently!)
 
 - 💬 Currently working on create my own brand
 
@@ -11,21 +11,16 @@
 - 📌 English
 - 📌 Astro
 - 📌 Laravel
-- 📌 Angular CLI
 - 📌 HTML
 - 📌 CSS
 - 📌 Bootstrap
-- 📌 Tailwind
+- 📌 Tailwind CSS
 - 📌 JavaScript
 - 📌 TypeScript
+- 📌 Motion.dev
 
 ## 📫 How to reach me | _English/Spanish only_
-  - 📧 Email: contacto@usecodebaip.com
-  - 🐦 Twitter: @UseCodeBaip
-  - 👥 My Discord community: https://usecodebaip.com/discord (ticket system)
-
-#### 🖥 Socials
-- https://usecodebaip.com/contacto
+  - 🌐 Socials: http://baip.dev/contacto
 
 ###### That's all for now... see you!
 <!--
